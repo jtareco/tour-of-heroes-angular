@@ -1,3 +1,7 @@
+This is my tour-of-heroes project that I went through in order to learn how to use angular for our RCOS project, Swish.
+
+Directions on how to use:
+
 # TourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
